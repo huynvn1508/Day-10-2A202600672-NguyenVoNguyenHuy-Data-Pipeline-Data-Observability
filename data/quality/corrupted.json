@@ -1,0 +1,28 @@
+{
+  "report_name": "corrupted",
+  "total_checks": 5,
+  "passed_checks": 4,
+  "all_passed": false,
+  "checks": {
+    "row_count": {
+      "passed": true,
+      "detail": "22 rows in dataset."
+    },
+    "paper_id_integrity": {
+      "passed": false,
+      "detail": "Null IDs: 0, Duplicate IDs: 2."
+    },
+    "title_not_null": {
+      "passed": true,
+      "detail": "Null/empty titles: 0."
+    },
+    "summary_length": {
+      "passed": true,
+      "detail": "Mean summary length: 1451 chars. Short summaries (<10 chars): 4."
+    },
+    "freshness": {
+      "passed": true,
+      "detail": "Fresh rows: 18/22 (81.8%). Threshold: 180 days."
+    }
+  }
+}

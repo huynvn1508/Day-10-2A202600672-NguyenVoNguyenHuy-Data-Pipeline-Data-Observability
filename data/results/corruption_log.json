@@ -1,0 +1,66 @@
+{
+  "total_corruptions": 6,
+  "original_rows": 23,
+  "corrupted_rows": 22,
+  "actions": [
+    {
+      "action": "drop_latest_records",
+      "count": 3,
+      "paper_ids": [
+        "10.21203/rs.3.rs-9882260/v1",
+        "10.54254/2753-8818/2026.dl34055",
+        "10.22214/ijraset.2026.82233"
+      ],
+      "detail": "Dropped 3 most recent records."
+    },
+    {
+      "action": "blank_summary",
+      "count": 3,
+      "paper_ids": [
+        "10.20944/preprints202604.0339.v1",
+        "10.32473/flairs.39.1.141782",
+        "10.20944/preprints202602.0996.v1"
+      ],
+      "detail": "Blanked summary for 3 rows."
+    },
+    {
+      "action": "inject_noise",
+      "count": 3,
+      "paper_ids": [
+        "10.64898/2026.01.24.26344477",
+        "10.4018/979-8-3373-5017-2.ch003",
+        "10.70121/001c.158711"
+      ],
+      "detail": "Injected 'NOISE_XYZ' prefix into 3 summaries."
+    },
+    {
+      "action": "truncate_title",
+      "count": 3,
+      "paper_ids": [
+        "10.20944/preprints202604.0339.v1",
+        "10.2139/ssrn.6761739",
+        "10.1093/sleep/zsag091.0346"
+      ],
+      "detail": "Truncated title to 15 chars for 3 rows."
+    },
+    {
+      "action": "stale_dates",
+      "count": 3,
+      "paper_ids": [
+        "10.36085/jsai.v9i1.9632",
+        "10.2139/ssrn.6713979",
+        "10.55041/isjem07213"
+      ],
+      "detail": "Shifted published date back 5 years for 3 rows."
+    },
+    {
+      "action": "add_duplicates",
+      "count": 2,
+      "paper_ids": [
+        "10.32473/flairs.39.1.141782",
+        "10.55041/isjem07213"
+      ],
+      "detail": "Duplicated 2 rows."
+    }
+  ]
+}

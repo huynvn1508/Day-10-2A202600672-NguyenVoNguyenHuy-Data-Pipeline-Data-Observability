@@ -1,0 +1,218 @@
+[
+  {
+    "id": "q001",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation'?",
+    "ground_truth": "Abstract Large language models (LLMs) increasingly support reasoning, question answering, decision support, and retrieval-augmented knowledge work.",
+    "ground_truth_doc_ids": [
+      "10.21203/rs.3.rs-9882260/v1"
+    ]
+  },
+  {
+    "id": "q002",
+    "question_type": "authors",
+    "question": "Who authored 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation'?",
+    "ground_truth": "Kushal Budha, Nikesh Lagun",
+    "ground_truth_doc_ids": [
+      "10.21203/rs.3.rs-9882260/v1"
+    ]
+  },
+  {
+    "id": "q003",
+    "question_type": "date",
+    "question": "When was 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation' published?",
+    "ground_truth": "2026-06-02",
+    "ground_truth_doc_ids": [
+      "10.21203/rs.3.rs-9882260/v1"
+    ]
+  },
+  {
+    "id": "q004",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Hybrid Graph Neural Network and Large Language Model Framework for Robust Knowledge Graph Question Answering via Retrieval-Augmented Generation'?",
+    "ground_truth": "Knowledge graphs (KGs) hold facts about the world as connected triples, and they have become a backbone for any system that needs to reason over linked information.",
+    "ground_truth_doc_ids": [
+      "10.22214/ijraset.2026.82233"
+    ]
+  },
+  {
+    "id": "q005",
+    "question_type": "authors",
+    "question": "Who authored 'Hybrid Graph Neural Network and Large Language Model Framework for Robust Knowledge Graph Question Answering via Retrieval-Augmented Generation'?",
+    "ground_truth": "Sohail Khan",
+    "ground_truth_doc_ids": [
+      "10.22214/ijraset.2026.82233"
+    ]
+  },
+  {
+    "id": "q006",
+    "question_type": "date",
+    "question": "When was 'Hybrid Graph Neural Network and Large Language Model Framework for Robust Knowledge Graph Question Answering via Retrieval-Augmented Generation' published?",
+    "ground_truth": "2026-05-31",
+    "ground_truth_doc_ids": [
+      "10.22214/ijraset.2026.82233"
+    ]
+  },
+  {
+    "id": "q007",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Speculative Retrieval-Augmented Generation for Cost-Efficient Large Language Model Inference'?",
+    "ground_truth": "Abstract - This work focuses on the two crucial bottlenecks in Retrieval-Augmented Generation (RAG): high inference latency and expensive computation cost.",
+    "ground_truth_doc_ids": [
+      "10.55041/isjem07213"
+    ]
+  },
+  {
+    "id": "q008",
+    "question_type": "authors",
+    "question": "Who authored 'Speculative Retrieval-Augmented Generation for Cost-Efficient Large Language Model Inference'?",
+    "ground_truth": "Dr. Sumalatha P, Manoj Kumar",
+    "ground_truth_doc_ids": [
+      "10.55041/isjem07213"
+    ]
+  },
+  {
+    "id": "q009",
+    "question_type": "date",
+    "question": "When was 'Speculative Retrieval-Augmented Generation for Cost-Efficient Large Language Model Inference' published?",
+    "ground_truth": "2026-05-06",
+    "ground_truth_doc_ids": [
+      "10.55041/isjem07213"
+    ]
+  },
+  {
+    "id": "q010",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Retrieval-Augmented Large Language Model Agents for Automated Scientific Literature Review Generation'?",
+    "ground_truth": "This study investigates a method that integrates retrieval-augmented mechanisms into large language model agents for scientific literature review generation.",
+    "ground_truth_doc_ids": [
+      "10.20944/preprints202604.0339.v1"
+    ]
+  },
+  {
+    "id": "q011",
+    "question_type": "authors",
+    "question": "Who authored 'Retrieval-Augmented Large Language Model Agents for Automated Scientific Literature Review Generation'?",
+    "ground_truth": "Ruotong Wang, Nyutian Long, Shunqi Liu, Yuxi Wang, Zhen Qi, Huajun Zhang",
+    "ground_truth_doc_ids": [
+      "10.20944/preprints202604.0339.v1"
+    ]
+  },
+  {
+    "id": "q012",
+    "question_type": "date",
+    "question": "When was 'Retrieval-Augmented Large Language Model Agents for Automated Scientific Literature Review Generation' published?",
+    "ground_truth": "2026-04-06",
+    "ground_truth_doc_ids": [
+      "10.20944/preprints202604.0339.v1"
+    ]
+  },
+  {
+    "id": "q013",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Pioneering agentic retrieval-augmented generation in software quality: a novel framework for code smell detection via dynamic retrieval'?",
+    "ground_truth": "Code smells\u2014subtle indicators of poor design choices\u2014pose significant challenges to software maintainability and readability, particularly in dynamic languages such as Python.",
+    "ground_truth_doc_ids": [
+      "10.7717/peerj-cs.3642"
+    ]
+  },
+  {
+    "id": "q014",
+    "question_type": "authors",
+    "question": "Who authored 'Pioneering agentic retrieval-augmented generation in software quality: a novel framework for code smell detection via dynamic retrieval'?",
+    "ground_truth": "Bushra Aljohani, Abdulmajeed Aljuhani",
+    "ground_truth_doc_ids": [
+      "10.7717/peerj-cs.3642"
+    ]
+  },
+  {
+    "id": "q015",
+    "question_type": "date",
+    "question": "When was 'Pioneering agentic retrieval-augmented generation in software quality: a novel framework for code smell detection via dynamic retrieval' published?",
+    "ground_truth": "2026-03-04",
+    "ground_truth_doc_ids": [
+      "10.7717/peerj-cs.3642"
+    ]
+  },
+  {
+    "id": "q016",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Implementation of Retrieval-Augmented Generation Method on Large Language Model for Development of Campus Service and Information Chatbot'?",
+    "ground_truth": "Large language models have the potential to improve the quality of information services in higher education environments through responsive and natural interactions.",
+    "ground_truth_doc_ids": [
+      "10.35314/3y9hy151"
+    ]
+  },
+  {
+    "id": "q017",
+    "question_type": "authors",
+    "question": "Who authored 'Implementation of Retrieval-Augmented Generation Method on Large Language Model for Development of Campus Service and Information Chatbot'?",
+    "ground_truth": "Muhammad Dzaki Salman, Rahmaddeni, Torkis Nasution, Susanti",
+    "ground_truth_doc_ids": [
+      "10.35314/3y9hy151"
+    ]
+  },
+  {
+    "id": "q018",
+    "question_type": "date",
+    "question": "When was 'Implementation of Retrieval-Augmented Generation Method on Large Language Model for Development of Campus Service and Information Chatbot' published?",
+    "ground_truth": "2026-02-26",
+    "ground_truth_doc_ids": [
+      "10.35314/3y9hy151"
+    ]
+  },
+  {
+    "id": "q019",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Empowering farmers with artificial intelligence: a retrieval-augmented generation based large language model advisory framework'?",
+    "ground_truth": "This study presents a retrieval augmented generation (RAG) based system designed to provide farmers with expert agricultural advisory services.",
+    "ground_truth_doc_ids": [
+      "10.4081/jae.2026.1908"
+    ]
+  },
+  {
+    "id": "q020",
+    "question_type": "authors",
+    "question": "Who authored 'Empowering farmers with artificial intelligence: a retrieval-augmented generation based large language model advisory framework'?",
+    "ground_truth": "Shreeram Sawant, Rahul Nair, Siddharth Hariharan",
+    "ground_truth_doc_ids": [
+      "10.4081/jae.2026.1908"
+    ]
+  },
+  {
+    "id": "q021",
+    "question_type": "date",
+    "question": "When was 'Empowering farmers with artificial intelligence: a retrieval-augmented generation based large language model advisory framework' published?",
+    "ground_truth": "2026-01-27",
+    "ground_truth_doc_ids": [
+      "10.4081/jae.2026.1908"
+    ]
+  },
+  {
+    "id": "q022",
+    "question_type": "summary",
+    "question": "What is the main contribution of 'Agentic AI, Retrieval-Augmented Generation, and the Institutional Turn: Legal Architectures and Financial Governance in the Age of Distributional AGI'?",
+    "ground_truth": "The proliferation of agentic artificial intelligence systems-characterized by autonomous goal-seeking, tool use, and multi-agent coordination-presents unprecedented challenges to existing legal and financial regulatory frameworks.",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6271858"
+    ]
+  },
+  {
+    "id": "q023",
+    "question_type": "authors",
+    "question": "Who authored 'Agentic AI, Retrieval-Augmented Generation, and the Institutional Turn: Legal Architectures and Financial Governance in the Age of Distributional AGI'?",
+    "ground_truth": "Marcel Osmond",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6271858"
+    ]
+  },
+  {
+    "id": "q024",
+    "question_type": "date",
+    "question": "When was 'Agentic AI, Retrieval-Augmented Generation, and the Institutional Turn: Legal Architectures and Financial Governance in the Age of Distributional AGI' published?",
+    "ground_truth": "2026-01-01",
+    "ground_truth_doc_ids": [
+      "10.2139/ssrn.6271858"
+    ]
+  }
+]
